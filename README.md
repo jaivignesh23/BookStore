@@ -11,3 +11,5 @@ The Admins, shop owner has access to different portal with access to add categor
 The admins can add the books into the portal and delete the previous books as well
 Elastic search is also implemented
 Provision to add E-book is also implemented
+
+Certificate of completion is included.
